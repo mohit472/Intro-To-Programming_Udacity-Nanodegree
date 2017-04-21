@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+p {
+    color: red;
+}
+span {
+    color:blue;
+}
+img {
+   float: right;
+}
+.city {
+    float: left;
+    margin: 10px;
+    padding: 15px;
+}
+h2 {
+    color: purple;
+    text-align: center;
+}
